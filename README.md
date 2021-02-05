@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 I am Rishi, a student in first year MTech. Computer Science. I am passionate about anything computers and even more so about math. 
-- 🔭 I’m currently working on __Setting up a repository containing projects for Advanced Computer Architecture__
+- 🌱 I’m currently working on a [Machine Learning repository](https://github.com/AceEviliano/Simply-Machine-Learning) 
+
 <!--
 **AceEviliano/AceEviliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
