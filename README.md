@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Rishi, a student in first year MTech. Computer Science. I am passionate about anything computers and even more so about math. 
+I am Rishi, a second year MTech. Computer Science grad. I am passionate about anything computers and even more so about math. 
 - 🌱 I’m currently working on a [Machine Learning repository](https://github.com/AceEviliano/Simply-Machine-Learning) 
 
 <!--
